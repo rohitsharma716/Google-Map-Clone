@@ -1,4 +1,6 @@
-# Mapbox Integration for Shortest Path and Directions
+# Mapbox Integration and GOOGLE MAP CLONE
+..live link of this side..
+https://profound-gelato-bea502.netlify.app/
 
 ## Introduction
 This is a ReadMe file for the Mapbox integration in our app. The purpose of this integration is to allow users to search for the shortest path between two locations using different types of transportation (e.g., walking, driving, cycling) and to display turn-by-turn directions for the chosen route.
